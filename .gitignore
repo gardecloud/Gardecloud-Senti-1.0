@@ -1,8 +1,2 @@
 model/senti_4b_core/*.gguf
-llama.cppmodel/senti_4b_core/*.gguf
-llama.cpp/build/
-llama.cpp/bin/
-model/senti_4b_core/*.gguf
-llama.cpp/
-model/senti_4b_core/*.gguf
 llama.cpp/
